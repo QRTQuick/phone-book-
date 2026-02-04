@@ -88,7 +88,7 @@ entry = Entry()
 entry.config(font=('ink free',10))
 entry.config(fg='blue')
 entry.config(bg='red')
-entry.insert(80,'SEARCH FOR CONTACTS')
+entry.insert(80,'SEARCH FOR CONTACTS in main ')
 ##entry.config(width=40)
 
 backspace.grid(row=1,column=1)
